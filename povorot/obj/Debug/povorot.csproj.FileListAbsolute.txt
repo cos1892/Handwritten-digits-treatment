@@ -1,0 +1,26 @@
+D:\4 курс\курсач\povorot\povorot\bin\Debug\povorot.exe.config
+D:\4 курс\курсач\povorot\povorot\bin\Debug\povorot.exe
+D:\4 курс\курсач\povorot\povorot\bin\Debug\povorot.pdb
+D:\4 курс\курсач\povorot\povorot\obj\Debug\povorot.Form1.resources
+D:\4 курс\курсач\povorot\povorot\obj\Debug\povorot.Properties.Resources.resources
+D:\4 курс\курсач\povorot\povorot\obj\Debug\povorot.csproj.GenerateResource.Cache
+D:\4 курс\курсач\povorot\povorot\obj\Debug\povorot.exe
+D:\4 курс\курсач\povorot\povorot\obj\Debug\povorot.pdb
+d:\4 курс\курсач\izbr\povorot\povorot\bin\Debug\povorot.exe.config
+d:\4 курс\курсач\izbr\povorot\povorot\obj\Debug\povorot.exe
+d:\4 курс\курсач\izbr\povorot\povorot\obj\Debug\povorot.pdb
+d:\4 курс\курсач\izbr\povorot\povorot\bin\Debug\povorot.exe
+d:\4 курс\курсач\izbr\povorot\povorot\bin\Debug\povorot.pdb
+d:\4 курс\курсач\izbr\povorot\povorot\obj\Debug\povorot.Form1.resources
+d:\4 курс\курсач\izbr\povorot\povorot\obj\Debug\povorot.Properties.Resources.resources
+d:\4 курс\курсач\izbr\povorot\povorot\obj\Debug\povorot.csproj.GenerateResource.Cache
+D:\Учёба\4-ий курс\8 семестр\Обработка изображений\Курсач\povorot\povorot\bin\Debug\povorot.exe.config
+D:\Учёба\4-ий курс\8 семестр\Обработка изображений\Курсач\povorot\povorot\obj\Debug\povorot.exe
+D:\Учёба\4-ий курс\8 семестр\Обработка изображений\Курсач\povorot\povorot\obj\Debug\povorot.pdb
+D:\Учёба\4-ий курс\8 семестр\Обработка изображений\Курсач\povorot\povorot\bin\Debug\povorot.exe
+D:\Учёба\4-ий курс\8 семестр\Обработка изображений\Курсач\povorot\povorot\bin\Debug\povorot.pdb
+D:\Учёба\4-ий курс\8 семестр\Обработка изображений\Курсач\povorot\povorot\obj\Debug\povorot.csprojResolveAssemblyReference.cache
+D:\Учёба\4-ий курс\8 семестр\Обработка изображений\Курсач\povorot\povorot\obj\Debug\povorot.Form1.resources
+D:\Учёба\4-ий курс\8 семестр\Обработка изображений\Курсач\povorot\povorot\obj\Debug\povorot.Properties.Resources.resources
+D:\Учёба\4-ий курс\8 семестр\Обработка изображений\Курсач\povorot\povorot\obj\Debug\povorot.csproj.GenerateResource.Cache
+D:\Учёба\4-ий курс\8 семестр\Обработка изображений\Курсач\povorot\povorot\obj\Debug\povorot.Form2.resources

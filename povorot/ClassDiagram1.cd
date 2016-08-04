@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="povorot.Form1" Collapsed="true">
+    <Position X="3.25" Y="0.5" Width="1.5" />
+    <Members>
+      <Method Name="button1_Click" Hidden="true" />
+      <Method Name="button10_Click" Hidden="true" />
+      <Method Name="button11_Click" Hidden="true" />
+      <Method Name="button12_Click" Hidden="true" />
+      <Method Name="button13_Click" Hidden="true" />
+      <Method Name="button14_Click" Hidden="true" />
+      <Method Name="button15_Click" Hidden="true" />
+      <Method Name="button16_Click" Hidden="true" />
+      <Method Name="button17_Click" Hidden="true" />
+      <Method Name="button18_Click" Hidden="true" />
+      <Method Name="button2_Click" Hidden="true" />
+      <Method Name="button3_Click" Hidden="true" />
+      <Method Name="button4_Click" Hidden="true" />
+      <Method Name="button5_Click" Hidden="true" />
+      <Method Name="button6_Click" Hidden="true" />
+      <Method Name="button7_Click" Hidden="true" />
+      <Method Name="button8_Click" Hidden="true" />
+      <Method Name="button9_Click" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Method Name="Form1" Hidden="true" />
+      <Method Name="Form1_Load" Hidden="true" />
+    </Members>
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>/SgIZxmibLLAhxCDBabIRMA6EM27gGAg4fx/SjBQ4Aw=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="povorot.Form2" Collapsed="true">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAsAYwQAKAoODAAgASQBAQGYH4BACQAMpwIIAAYYEA=</HashCode>
+      <FileName>Form2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="povorot.Program">
+    <Position X="5.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
